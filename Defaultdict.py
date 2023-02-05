@@ -9,7 +9,7 @@ indexes = []
 
 for i in range(1, n + 1):
     a_dict[n].append(input())
-# {5: [a,a,b,a,b]}
+
 b_list = [input() for j in range(m)]
 
 for item in b_list:
